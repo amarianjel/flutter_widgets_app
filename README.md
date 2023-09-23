@@ -34,6 +34,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Temas
+## Primera Parte
 1. Navegación entre pantallas
 
 2. Nuevos widgets
@@ -50,4 +51,20 @@
 * Configuraciones de router
 * Propio
 * De terceros
+
+## Segunda Parte:
+* RefreshIndicator
+* InfiniteScroll
+* ProgresIndicators
+** Lineales
+** Circulares
+** Controlados
+* Animaciones
+* Snackbars
+* Diálogos
+* Licencias
+* Switches, Checkboxes, Radios
+* Tiles
+* Listas
+* Pageviews
 
