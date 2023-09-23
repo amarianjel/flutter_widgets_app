@@ -68,3 +68,7 @@
 * Listas
 * Pageviews
 
+## Tercera Parte:
+1. "Draawers" menú laterales
+
+2. Gestor de estado Riverpod
